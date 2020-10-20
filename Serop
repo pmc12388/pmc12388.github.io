@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <title>Title of Survey</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+   <form action="survey.cgi" method="POST">
+ 
+            Questions and text here...
+ 
+   </form>
+</body>
+</html>
